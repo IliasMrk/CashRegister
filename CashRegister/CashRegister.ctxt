@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CashRegister
+comment0.text=\r\n\ \ \ A\ simulated\ cash\ register.\r\n
+comment1.params=
+comment1.target=CashRegister()
+comment1.text=constructor
+comment2.params=
+comment2.target=void\ clear()
+comment2.text=methods\ (public\ interface)
+comment3.params=price
+comment3.target=void\ addItem(double)
+comment4.params=
+comment4.target=double\ getTotal()
+comment5.params=
+comment5.target=int\ getCount()
+numComments=6
